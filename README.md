@@ -20,21 +20,11 @@ The goal of this project is to:
 * Evaluation using cross-validation and ROC curves
 * Custom model evaluation functions
 
-## 🧰 Tech Stack
 
-* **Python**
-* **Pandas**, **NumPy**
-* **Matplotlib**, **Seaborn**
-* **Scikit-learn**
-* **Jupyter Notebook**
 
-## 📊 Machine Learning Models Used
+##  Machine Learning Models Used
 
 * Logistic Regression
-* Random Forest Classifier
-* Support Vector Machines (SVM)
-* Decision Trees
-* K-Nearest Neighbors
 
 ## 🧪 Model Evaluation
 
@@ -45,55 +35,9 @@ The following metrics were used:
 * Confusion Matrix
 * ROC Curve & AUC Score
 
-## 📁 Project Structure
-
-```
-📦 spotify-data-project
- ┣ 📜 data.csv
- ┣ 📜 notebook.ipynb
- ┣ 📜 model.py
- ┣ 📜 visualizations.py
- ┗ 📜 README.md
-```
-
-## 🚀 How to Run
-
-1. Clone the repository:
-
-```
-git clone https://github.com/yourusername/spotify-data-project.git
-```
-
-2. Install dependencies:
-
-```
-pip install -r requirements.txt
-```
-
-3. Open the Jupyter Notebook:
-
-```
-jupyter notebook
-```
-
-## 📈 Results
-
-* Visual insights on audio features
-* Performance comparison of models
-* Best-performing model based on ROC-AUC and cross-validation
-
-## 📌 Next Steps
-
-* Build a personalization model that predicts if a user will skip a song
-* Expand dataset with user interactions
-* Deploy model using Flask or FastAPI
-* Add a dashboard (Streamlit)
 
 ## 🙌 Acknowledgements
 
 * Spotify Developer Data
 * Zero to Mastery Machine Learning Course
 
----
-
-Feel free to contribute or raise issues for improvements!
